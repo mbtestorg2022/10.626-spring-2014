@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 31b5e045-7f07-4d78-3316-6fce83e772d3
 resourcetype: Image
 title: 10-626_classroom-1.jpg
 uid: 3f66ab42-7694-b67b-b6d5-4a579347b962

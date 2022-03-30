@@ -43,7 +43,7 @@ Curriculum Information
 
 For graduate students: _10.50 Analysis of Transport Phenomena_ or permission of instructor
 
-For undergraduate students: [_10.302 Transport Processes_](/courses/10-302-transport-processes-fall-2004/)
+For undergraduate students: [_10.302 Transport Processes_](/courses/10-302-transport-processes-fall-2004)
 
 ### Requirements Satisfied
 
